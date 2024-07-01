@@ -8,12 +8,12 @@ https://colab.research.google.com/drive/102iMOTvGnsjAuWj2xyNnBeRWupHt0LXd?usp=sh
 
 Project Directory:
 
-    -1. Configuration Directory:
+    1. Configuration Directory:
 
         -Init() Code: This file likely contains initialization code necessary for setting up the project environment and configurations.
         -Dataset Creation (Code): This file includes the code responsible for creating and managing the dataset used in the optimization problem.
 
-    -2. GA Directory (Genetic Algorithm):
+    2. GA Directory (Genetic Algorithm):
 
         -Algorithm (Code): This file contains the implementation of the Genetic Algorithm used for schedule optimization.
         -Hyper-parameters Optimization (Code): This file includes the code for optimizing hyper-parameters specific to the Genetic Algorithm.
@@ -21,7 +21,7 @@ Project Directory:
         -CSVs Optimization Directory: This directory stores CSV files generated during the optimization process.
         -CSVs Seeds Directory: This directory contains CSV files related to the different seeds used in the Genetic Algorithm.
 
-    -3. ACO Directory (Ant Colony Optimization):
+    3. ACO Directory (Ant Colony Optimization):
 
         -Algorithm (Code): This file contains the implementation of the Ant Colony Optimization algorithm for schedule optimization.
         -Hyper-parameters Optimization (Code): This file includes the code for optimizing hyper-parameters specific to the ACO algorithm.
