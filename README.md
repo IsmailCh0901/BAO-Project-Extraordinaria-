@@ -10,26 +10,20 @@ Make sure that you follow the specified instructions on the Google Collab so you
 
 Project Directory:
 
-    1. Configuration Directory:
+    
 
-        -Init() Code: This file likely contains initialization code necessary for setting up the project environment and configurations.
-        -Dataset Creation (Code): This file includes the code responsible for creating and managing the dataset used in the optimization problem.
+    1. GA Directory (Genetic Algorithm):
 
-    2. GA Directory (Genetic Algorithm):
-
-        -Algorithm (Code): This file contains the implementation of the Genetic Algorithm used for schedule optimization.
-        -Hyper-parameters Optimization (Code): This file includes the code for optimizing hyper-parameters specific to the Genetic Algorithm.
-        -31 Seeds (Code): This file manages 31 different seeds for stochastic elements in the algorithm to ensure variability and robustness.
         -CSVs Optimization Directory: This directory stores CSV files generated during the optimization process.
         -CSVs Seeds Directory: This directory contains CSV files related to the different seeds used in the Genetic Algorithm.
 
-    3. ACO Directory (Ant Colony Optimization):
 
-        -Algorithm (Code): This file contains the implementation of the Ant Colony Optimization algorithm for schedule optimization.
-        -Hyper-parameters Optimization (Code): This file includes the code for optimizing hyper-parameters specific to the ACO algorithm.
-        -31 Seeds (Code): This file manages 31 different seeds for stochastic elements in the algorithm to ensure variability and robustness.
+    2. ACO Directory (Ant Colony Optimization):
+        
         -CSVs Optimization Directory: This directory stores CSV files generated during the optimization process.
         -CSVs Seeds Directory: This directory contains CSV files related to the different seeds used in the ACO algorithm.
+
+
 
 Additional Files:
 
