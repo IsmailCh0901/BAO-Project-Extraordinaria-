@@ -3,8 +3,10 @@ Repository Structure Description for Schedule Optimization Problem Using Bioinsp
 
 This repository structure is organized to manage different bioinspired algorithms (GA and ACO) and their respective configurations, datasets, and results systematically.
 
-A Google Collab link of the project is attached in order to facilitate code execution.
+A Google Collab link of the project is attached in order to facilitate code execution:
 https://colab.research.google.com/drive/102iMOTvGnsjAuWj2xyNnBeRWupHt0LXd?usp=sharing
+
+Make sure that you follow the specified instructions on the Google Collab so you can replicate the same results obtained.
 
 Project Directory:
 
